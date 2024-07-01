@@ -26,8 +26,8 @@ The data analysis is shown in the jupyter notebook `main.ipynb`. Additional func
 The main findings can be found in the blog post here.
 
 # Acknowledgements <a name='acknowledgements'></a>
-The data used can be found on Kaggle, see the link above.
-Besides this I enriched the dataset through geographic data:
-https://github.com/OpenDataDE/State-zip-code-GeoJSON/tree/master
-In addition, I found some inspiration on this blogpost:
+The data used can be found on Kaggle, see the link above. <br>
+Besides this I enriched the dataset through geographic data: <br>
+https://github.com/OpenDataDE/State-zip-code-GeoJSON/tree/master <br>
+In addition, I found some inspiration on this blogpost: <br>
 https://medium.com/@felix.dulys/data-driven-neighborhood-hunting-in-seattle-a-how-to-guide-in-python-d2c899a037ab
